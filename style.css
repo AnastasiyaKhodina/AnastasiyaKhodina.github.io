@@ -1,0 +1,19 @@
+    body {
+        background: url(back.jpg) no-repeat;
+        background-size: 100%;
+    }
+    h1{
+        text-align: center;
+        color: cadetblue;
+        font-style:oblique;
+        margin-top: 300px;
+    }
+     .link{
+        margin-left:650px;
+        margin-top: 350px;
+         text-size:100;
+    }
+a:link {color:hotpink; text-decoration:none; font-size:30px;}
+ a:visited {color:pink; text-decoration:none font-size:30px;}
+    a:hover   {color:purple; text-decoration:underline font-size:30px;}
+    a:active  {color:yellow; text-decoration:underline font-size:30px;}
